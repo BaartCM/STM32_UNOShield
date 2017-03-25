@@ -9,4 +9,5 @@ tft_sdapter_2 is more specialised. It has a row of 6 push butto switches which c
 Both boards have a terminal block to apply external power, a 5V and 3.3V regulator.
 
 The TFT uses PA0 .. PA7 for DATA and PA5 .. PA9 for CTRL
-The SD card reader uses SPI2 is PB12 .. PB15
+
+The SD card reader uses SPI2 ie PB12 .. PB15
